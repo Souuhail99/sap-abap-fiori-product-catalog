@@ -1,0 +1,24 @@
+# Local secrets / service connections
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Node and generated build artifacts
+node_modules/
+dist/
+coverage/
+.tmp/
+.cache/
+
+# Local IDE settings and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Project archives can be unpacked and reviewed before committing
+*.zip
