@@ -64,4 +64,4 @@ flowchart LR
 
 **Note:** The screenshots represent results documented in the original academic submission. This repository does not claim the application is currently publicly accessible.
 
-[Deutsche Projektbeschreibung](README_DE.md)
+[Deutsche Projektbeschreibung](README.md)
